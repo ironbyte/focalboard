@@ -129,6 +129,6 @@
 		"webpack-merge": "^5.7.3"
 	},
 	"optionalDependencies": {
-		"cypress": "^6.8.0"
+		"cypress": "^13.0.0"
 	}
 }
